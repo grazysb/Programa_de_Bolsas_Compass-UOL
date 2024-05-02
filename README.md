@@ -2,7 +2,7 @@
 
 Me chamo Grazielly, e tenho 18 anos.
 
-![foto]("C:\Users\edine\Downloads\WhatsApp Image 2024-04-30 at 15.53.48.jpeg")
+![foto](C:\Users\edine\Downloads\WhatsApp Image 2024-04-30 at 15.53.48.jpeg)
 
 Estudo Sistemas de Informação no Intituto Federal da Bahia. Estou no primeiro semestre, e por enquanto não tenho outras experiências profissionais.
 
