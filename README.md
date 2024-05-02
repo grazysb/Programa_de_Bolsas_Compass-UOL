@@ -2,7 +2,6 @@
 
 Me chamo Grazielly, e tenho 18 anos.
 
-## Imagem Externa
 ![foto](link)
 
 Estudo Sistemas de Informação no Intituto Federal da Bahia. Estou no primeiro semestre, e por enquanto não tenho outras experiências profissionais.
