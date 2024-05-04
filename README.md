@@ -2,7 +2,6 @@
 
 Me chamo Grazielly, moro em Vitória da Conquista na Bahia, e tenho 18 anos. 
 
-#### Imagem Local
 ![foto](img/foto.jpeg)
 
 
@@ -12,7 +11,8 @@ Estudo Sistemas de Informação no Intituto Federal da Bahia. Estou no primeiro 
 
 ## Sprints
 
-* Sprint 1
+* Sprint 1: [Sprint_1](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/README_s1.md)
+
 
 
 
