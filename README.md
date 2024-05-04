@@ -3,7 +3,8 @@
 Me chamo Grazielly, moro em Vitória da Conquista na Bahia, e tenho 18 anos. 
 
 #### Imagem Local
-![foto](img/foto.jpg)
+![foto](img/grazy.jpg)
+
 
 
 
