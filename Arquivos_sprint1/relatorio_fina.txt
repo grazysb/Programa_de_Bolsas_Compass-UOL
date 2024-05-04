@@ -1,0 +1,44 @@
+Relatório de Vendas Combinadas
+
+Informações do arquivo dados_de_vendas1.csv:
+
+As dez primeiras linhas do arquivo dados_de_vendas1.csv são:
+id,produto,quantidade,preço,data
+1,camiseta,8,29.90,02/03/2023
+2,calça,6,80.00,02/03/2023
+3,sapato,3,100.00,03/04/2023
+4,meia,27,5.00,04/03/2023
+5,cinto,8,15.00,05/03/2023
+6,camisa,7,40.00,06/03/2023
+7,bermuda,6,50.00,07/03/2023
+8,tênis,4,120.00,08/03/2023
+9,bone,12,10.00,09/03/2023
+
+Informações do arquivo dados_de_vendas2.csv:
+
+As dez primeiras linhas do arquivo dados_de_vendas2.csv são:
+id,produto,quantidade,preço,data
+1,camiseta,7,29.90,01/05/2023
+2,calça,7,80.00,02/05/2023
+3,sapato,6,100.00,03/05/2023
+4,meia,23,5.00,04/05/2023
+5,cinto,9,15.00,05/05/2023
+6,camisa,11,40.00,06/05/2023
+7,bermuda,3,50.00,07/05/2023
+8,tênis,8,120.00,08/05/2023
+9,bone,2,10.00,09/05/2023
+
+Informações do arquivo dados_de_vendas3.csv:
+
+As dez primeiras linhas do arquivo dados_de_vendas3.csv são:
+id,produto,quantidade,preço,data
+1,camiseta,3,29.90,01/08/2023
+2,calça,5,80.00,02/08/2023
+3,sapato,3,100.00,03/08/2023
+4,meia,17,5.00,04/08/2023
+5,cinto,8,15.00,05/08/2023
+6,camisa,18,40.00,06/08/2023
+7,bermuda,5,50.00,07/08/2023
+8,tênis,11,120.00,08/08/2023
+9,bone,5,10.00,09/08/2023
+

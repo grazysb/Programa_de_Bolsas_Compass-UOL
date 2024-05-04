@@ -1,0 +1,67 @@
+id,produto,quantidade,preço,data
+1,camiseta,3,29.90,01/08/2023
+2,calça,5,80.00,02/08/2023
+3,sapato,3,100.00,03/08/2023
+4,meia,17,5.00,04/08/2023
+5,cinto,8,15.00,05/08/2023
+6,camisa,18,40.00,06/08/2023
+7,bermuda,5,50.00,07/08/2023
+8,tênis,11,120.00,08/08/2023
+9,bone,5,10.00,09/08/2023
+10,casaco,12,150.00,10/08/2023
+11,mochila,8,60.00,11/08/2023
+12,livro,18,20.00,12/08/2023
+13,caderno,16,8.00,13/08/2023
+14,lápis,20,1.00,14/08/2023
+15,borracha,7,0.50,15/08/2023
+16,cola,5,2.50,16/08/2023
+17,régua,13,4.00,17/08/2023
+18,pincel atômico,6,5.00,18/08/2023
+19,papel sulfite A4 500 folhas,6,25.00,19/08/2023
+20,pasta sanfonada,6,35.00,20/08/2023
+21,fone de ouvido,4,80.00,21/08/2023
+22,mouse sem fio,7,50.00,22/08/2023
+23,filtro de linha,16,30.00,23/08/2023
+24,cabo HDMI,10,15.00,24/08/2023
+25,pilha AA,10,2.00,25/08/2023
+26,luminária de mesa,8,40.00,26/08/2023
+27,relogio de parede,6,20.00,27/08/2023
+28,porta-retrato digital,6,100.00,28/08/2023
+29,vaporizador de roupas,3,150.00,29/08/2023
+30,balança digital,4,60.00,30/08/2023
+31,furadeira elétrica,9,200.00,31/08/2023
+32,jogo de panelas antiaderente,5,120.00,01/09/2023
+33,faca elétrica,5,80.00,02/09/2023
+34,sanduicheira elétrica,4,40.00,03/08/2023
+35,mixer de alimentos,3,50.00,04/08/2023
+36,batedeira planetária,2,300.00,05/08/2023
+52,guitarra elétrica fender,4,2999.00,20/08/2023
+53,amplificador de guitarra,7,799.00,21/08/2023
+54,pedaleira preta,5,499.00,22/08/2023
+55,cabo para instrumento ninja,15,59.00,23/08/2023
+56,palheta dunlop,13,1.00,24/08/2023
+57,afinador digital,5,49.00,25/08/2023
+58,capotraste,14,99.00,26/08/2023
+59,suporte para guitarra,3,29.00,27/08/2023
+60,correia para guitarra,2,19.00,28/08/2023
+61,encordoamento para guitarra,10,39.00,01/09/2023
+62,violão acústico,4,299.00,02/09/2023
+63,capa para violão,1,99.00,03/09/2023
+64,banqueta para violão,6,99.00,04/09/2023
+65,limpador de cordas,7,29.00,05/09/2023
+66,flauta transversal,3,1999.00,06/09/2023
+67,suporte para flauta,7,79.00,07/09/2023
+68,estojo para flauta,4,9999,08/09/2023
+70,saxofone,6,4359.00,10/09/2023
+71,suporte para saxofone,4,32.69,11/09/2023
+76,teclado musical casio,7,784.98,16/09/2023
+77,sintetizador de voz,8,324.12,17/09/2023
+78,controlador com cabo usb,3,124.00,18/09/2023
+79,caixa de som jbl,6,39.99,19/09/2023
+80,microfone sem fio shure,3,2000.00,20/09/2023
+81,pedestal para microfone,11,150.00,21/09/2023
+82,cabo para microfone,10,12.50,22/09/2023
+83,caixa acústica,9,789.00,24/09/2023
+85,mixer de áudio behringer,2,888.00,25/03/2023
+86,fone de ouvido profissional akg,3,300.00,27/03/2023
+88,monitor yamaha hs5,2,990.00,31/01/2023
