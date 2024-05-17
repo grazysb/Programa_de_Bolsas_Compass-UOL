@@ -78,6 +78,54 @@ SELECT DISTINCT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor
 FROM tb_locacao;
 
 
+CREATE VIEW dim_vendedor AS 
+SELECT idVendedor AS idVendedor,
+       nomeVendedor AS nomeVendedor,
+       sexoVendedor AS sexoVendedor,
+       estadoVendedor AS estadoVendedor
+FROM vendedor;
+       
+CREATE VIEW dim_quilometragem AS
+SELECT idLocacao AS idLocacao,
+       kmCarro AS kmCarro
+FROM quilometragem; 
+       
+CREATE VIEW dim_carro AS
+SELECT idCarro AS idCarro,
+       classiCarro AS classiCarro,
+       marcaCarro AS marcaCarro,
+       modeloCarro AS modeloCarro,
+       anoCarro AS anoCarro,
+       idCombustivel AS idCombustivel
+FROM carro;
 
+CREATE VIEW dim_combustivel AS
+SELECT idCombustivel AS idCombustivel,
+       tipCombustivel AS tipoCombustivel
+FROM combustivel;
 
+CREATE VIEW dim_cliente AS
+SELECT idCliente AS idCliente,
+       nomeCliente AS nomeCliente,
+       cidadeCliente AS cidadeCliente,
+       estadoCliente AS estadoCliente,
+       paisCliente AS paisCliente
+FROM cliente;
+
+CREATE VIEW fato_locacao AS
+SELECT idLocacao AS idLocacao,
+       qtdDiaria AS qtdDiaria,
+       vlrDiaria AS vlrDiaria,
+       idCliente AS idCliente,
+       idCarro AS idCarro,
+       idVendedor AS idVendedor
+FROM locacao;
+
+CREATE VIEW dim_tempo AS
+SELECT idLocacao AS idLocacao,
+       dataLocacao AS dataLocacao,
+       horaLocacao AS horaLocacao,
+       dataEntrega AS dataEntrega,
+       horaEntrega AS horaEntrega
+FROM locacao;
 
