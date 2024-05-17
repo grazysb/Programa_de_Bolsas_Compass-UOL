@@ -8,7 +8,7 @@ Para a modelagem dimensional, eu centralizei a tabela fato, e distribuí as tabe
 
 
 ### Arquivos Gerados
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/8d3d491425112f1aa895bbd8d7334c1caf59bbdd/README_s1.md#L23)
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/ac543e9dde31c097b3b9b83858c86c718b8cb056/Arquivos_sprint2)
 
 
 #### Certificado AWS
