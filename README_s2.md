@@ -10,7 +10,7 @@ Senti dificuldade para criar as relações entre tabelas através dos códigos, 
 
 
 ### Arquivos Gerados
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/ac543e9dde31c097b3b9b83858c86c718b8cb056/Arquivos_sprint2)
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/1030066966d9599d468cceec4a61fe2563dbd014/Arquivos_sprint2)
 
 
 #### Certificado AWS
