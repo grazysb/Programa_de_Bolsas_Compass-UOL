@@ -14,3 +14,4 @@ Senti dificuldade para criar as relações entre tabelas através dos códigos, 
 
 
 #### Certificado AWS
+[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/bbac0f447c0a5117c5e57e7ad1e6449f4e37d8fa/Arquivos_sprint2/13660_3_5472010_1715994968_AWS%20Course%20Completion%20Certificate.pdf)
