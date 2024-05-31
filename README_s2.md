@@ -36,7 +36,7 @@
 
 
 ## Link para a pasta desafio
-[desafio](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/153f01e59a117a5b7384cb72faebca3b47512de9/desafio_s2.md)
+[desafio](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/8ab83a7d2a6906aa9260667fd3a46038db510ecc/desafio_s2.md)
 ## Exercício SQL
 [exercicio](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Atividade_sprint2)
 
