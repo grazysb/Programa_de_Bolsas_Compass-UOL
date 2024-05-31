@@ -36,8 +36,7 @@ DISTINCT: Seleciona apenas valores distintos (únicos) de uma coluna.
 
 
 ## Link para a pasta desafio
-[desafio](C:\Users\grazy\Desktop\curso- python\Programa_de_Bolsas_Compass-UOL\desafio_s2.md)
-
+[desafio](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/dc432d31d027f790972d3fb5a454cfde6f8049f2/desafio_s2.md)
 
 #### Certificado AWS
 [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/bbac0f447c0a5117c5e57e7ad1e6449f4e37d8fa/Arquivos_sprint2/13660_3_5472010_1715994968_AWS%20Course%20Completion%20Certificate.pdf)

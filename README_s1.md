@@ -59,5 +59,4 @@ git pull: Atualiza o repositório local com mudanças de um repositório remoto.
 
 
 ## Link para a pasta desafio
-[desafio](C:\Users\grazy\Desktop\curso- python\Programa_de_Bolsas_Compass-UOL\desafio_s1.md)
-
+[desafio](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/dc432d31d027f790972d3fb5a454cfde6f8049f2/desafio_s1.md)
