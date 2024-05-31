@@ -19,7 +19,6 @@ Uso: pwd
 * cp: Copia arquivos ou diretórios.
 Uso: cp [origem] [destino]
 
-
 * mv: Move ou renomeia arquivos e diretórios.
 Uso: mv [origem] [destino]
 
@@ -39,7 +38,7 @@ Uso: touch [arquivo]
 Uso: chmod [opções] [arquivo]
 
 ## Git e Github
-° Git é um sistema de controle de versão distribuído, amplamente utilizado para gerenciar projetos de software
+* Git é um sistema de controle de versão distribuído, amplamente utilizado para gerenciar projetos de software
 
 ### Comandos básicos:
 
