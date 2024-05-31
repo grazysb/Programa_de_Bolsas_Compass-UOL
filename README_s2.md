@@ -1,16 +1,42 @@
-# Descrição da Tarefa
-Normalizar a base de dados disponibilizada e produzir um modelo relacional e outro dimensional a partir da tabela primária.
+# Resumo dos assuntos da Sprint
+## SQL para Análise de Dados
+° SQL (Structured Query Language) é uma linguagem de programação utilizada para gerenciar e manipular bancos de dados relacionais.
 
-## Passos Executados 
-Inicialmente analisei os dados e a frequência que eles apareciam de acordo com as tabelas. Depois, dividi a tabela principal em várias tabelas para otimizar a busca e evitar repetição de dados, e as conectei de modo que elas ficassem ligadas à tabelas que tenham relações diretas. Por fim, inseri os dados em cada coluna.
-Para a modelagem dimensional, eu centralizei a tabela "locacao", e distribuí as outras tabelas de acordo com seções mais específicas (informações sobre o carro, informaçoes sobre o cliente...), depois criei as views para cada dimensão. Achei mais fácil reorganizar as tabelas no formato normal antes de criar as views.
-#### Observação
-Senti dificuldade para criar as relações entre tabelas através dos códigos, então as executei manualmente pela interface do DBeaver
+Comandos principais:
+
+SELECT: Recupera dados de um banco de dados.
+
+INSERT: Insere novos registros em uma tabela.
+
+UPDATE: Atualiza dados existentes em uma tabela.
+
+DELETE: Remove registros de uma tabela.
+
+CREATE TABLE: Cria uma nova tabela no banco de dados.
+
+ALTER TABLE: Modifica a estrutura de uma tabela existente.
+
+DROP TABLE: Remove uma tabela do banco de dados.
+
+CREATE DATABASE: Cria um novo banco de dados.
+
+DROP DATABASE: Remove um banco de dados.
+
+JOIN: Combina registros de duas ou mais tabelas com base em uma condição relacionada.
+
+WHERE: Filtra registros com base em uma condição específica.
+
+GROUP BY: Agrupa registros que têm valores em comum em colunas especificadas.
+
+ORDER BY: Ordena os resultados de uma consulta em ordem ascendente ou descendente.
+
+HAVING: Filtra grupos de registros com base em uma condição especificada, usado com GROUP BY.
+
+DISTINCT: Seleciona apenas valores distintos (únicos) de uma coluna.
 
 
-
-### Arquivos Gerados
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/1030066966d9599d468cceec4a61fe2563dbd014/Arquivos_sprint2)
+## Link para a pasta desafio
+[desafio](C:\Users\grazy\Desktop\curso- python\Programa_de_Bolsas_Compass-UOL\desafio_s2.md)
 
 
 #### Certificado AWS
