@@ -26,7 +26,7 @@
 
 
 ## Link para a pasta desafio
-[desafio](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/dc432d31d027f790972d3fb5a454cfde6f8049f2/desafio_s3.md)
+[desafio](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ea3f307867ca422e7e7bc50fa7aa933f3925da51/desafio_s3.md)
 
 ## Exercício Python
 [atividade](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Atividade_II_s3)
