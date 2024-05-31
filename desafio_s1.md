@@ -1,7 +1,6 @@
 # Descrição da Tarefa
 O problema a ser resolvido era o processamento dos dados de vendas de uma empresa de e-commerce e a geração de relatórios sobre ela.
 
-
 ## Passos Executados
 Criei uma pasta chamada ecommerce e coloquei os dados recebidos da empresa lá.
 Criei um arquivo no nano e o tornei executável com o comando chmod +x.
@@ -17,6 +16,8 @@ Executei o arquivo e agendei sua execução usando o comando crontab -e para os 
 Modifiquei o arquivo de dados três vezes.
 Criei um novo arquivo executável para combinar os três arquivos diferentes gerados com as mudanças de dados.
 Esse novo script combinaria os três arquivos em um único chamado vendas combinadas e produziria um relatório final com a junção desses três arquivos.
+
+
 
 ### Arquivos gerados 
 [arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Arquivos_sprint1)

@@ -1,38 +1,38 @@
 # Resumo dos assuntos da Sprint
 ## SQL para Análise de Dados
-° SQL (Structured Query Language) é uma linguagem de programação utilizada para gerenciar e manipular bancos de dados relacionais.
+*  SQL (Structured Query Language) é uma linguagem de programação utilizada para gerenciar e manipular bancos de dados relacionais.
 
-Comandos principais:
+### Comandos principais:
 
-SELECT: Recupera dados de um banco de dados.
+* SELECT: Recupera dados de um banco de dados.
 
-INSERT: Insere novos registros em uma tabela.
+* INSERT: Insere novos registros em uma tabela.
 
-UPDATE: Atualiza dados existentes em uma tabela.
+* UPDATE: Atualiza dados existentes em uma tabela.
 
-DELETE: Remove registros de uma tabela.
+* DELETE: Remove registros de uma tabela.
 
-CREATE TABLE: Cria uma nova tabela no banco de dados.
+* CREATE TABLE: Cria uma nova tabela no banco de dados.
 
-ALTER TABLE: Modifica a estrutura de uma tabela existente.
+* ALTER TABLE: Modifica a estrutura de uma tabela existente.
 
-DROP TABLE: Remove uma tabela do banco de dados.
+* DROP TABLE: Remove uma tabela do banco de dados.
 
-CREATE DATABASE: Cria um novo banco de dados.
+* CREATE DATABASE: Cria um novo banco de dados.
 
-DROP DATABASE: Remove um banco de dados.
+* DROP DATABASE: Remove um banco de dados.
 
-JOIN: Combina registros de duas ou mais tabelas com base em uma condição relacionada.
+* JOIN: Combina registros de duas ou mais tabelas com base em uma condição relacionada.
 
-WHERE: Filtra registros com base em uma condição específica.
+* WHERE: Filtra registros com base em uma condição específica.
 
-GROUP BY: Agrupa registros que têm valores em comum em colunas especificadas.
+* GROUP BY: Agrupa registros que têm valores em comum em colunas especificadas.
 
-ORDER BY: Ordena os resultados de uma consulta em ordem ascendente ou descendente.
+* ORDER BY: Ordena os resultados de uma consulta em ordem ascendente ou descendente.
 
-HAVING: Filtra grupos de registros com base em uma condição especificada, usado com GROUP BY.
+* HAVING: Filtra grupos de registros com base em uma condição especificada, usado com GROUP BY.
 
-DISTINCT: Seleciona apenas valores distintos (únicos) de uma coluna.
+* DISTINCT: Seleciona apenas valores distintos (únicos) de uma coluna.
 
 
 ## Link para a pasta desafio

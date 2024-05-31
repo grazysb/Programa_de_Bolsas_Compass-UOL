@@ -1,61 +1,61 @@
 # Resumo dos assuntos da Sprint
 ## Linux
-° Linux é um sistema operacional de código aberto baseado no kernel Linux.
+* Linux é um sistema operacional de código aberto baseado no kernel Linux.
 
-° Vantagens:
+* Vantagens:
 Código Aberto, flexibilidade, comunidade ativa, e segurança
 
-° Comandos Básicos do Linux:
+### Comandos Básicos do Linux:
 
-ls: Lista arquivos e diretórios.
+* ls: Lista arquivos e diretórios.
 Uso: ls ou ls [opções] [diretório]
 
-cd: Muda o diretório atual.
+* cd: Muda o diretório atual.
 Uso: cd [diretório]
 
-pwd: Mostra o caminho do diretório atual.
+* pwd: Mostra o caminho do diretório atual.
 Uso: pwd
 
-cp: Copia arquivos ou diretórios.
+* cp: Copia arquivos ou diretórios.
 Uso: cp [origem] [destino]
 
 
-mv: Move ou renomeia arquivos e diretórios.
+* mv: Move ou renomeia arquivos e diretórios.
 Uso: mv [origem] [destino]
 
-rm: Remove arquivos ou diretórios.
+* rm: Remove arquivos ou diretórios.
 Uso: rm [opções] [arquivo]
 
-mkdir: Cria um novo diretório.
+* mkdir: Cria um novo diretório.
 Uso: mkdir [diretório]
 
-rmdir: Remove diretórios vazios.
+* rmdir: Remove diretórios vazios.
 Uso: rmdir [diretório]
 
-touch: Cria um novo arquivo vazio ou atualiza a data de modificação de um arquivo existente.
+* touch: Cria um novo arquivo vazio ou atualiza a data de modificação de um arquivo existente.
 Uso: touch [arquivo]
 
-chmod: Modifica permissões de arquivos e diretórios.
+* chmod: Modifica permissões de arquivos e diretórios.
 Uso: chmod [opções] [arquivo]
 
 ## Git e Github
 ° Git é um sistema de controle de versão distribuído, amplamente utilizado para gerenciar projetos de software
 
-Comandos básicos:
+### Comandos básicos:
 
-git init: Inicializa um novo repositório Git no diretório atual.
+* git init: Inicializa um novo repositório Git no diretório atual.
 
-git clone: Clona um repositório existente a partir de uma URL.
+* git clone: Clona um repositório existente a partir de uma URL.
 
-git add: Adiciona arquivos ao índice (staging area).
+* git add: Adiciona arquivos ao índice (staging area).
 
-git commit: Salva as mudanças adicionadas ao índice no repositório.
+* git commit: Salva as mudanças adicionadas ao índice no repositório.
 
-git status: Mostra o status dos arquivos no repositório.
+* git status: Mostra o status dos arquivos no repositório.
 
-git push: Envia commits do repositório local para um repositório remoto.
+* git push: Envia commits do repositório local para um repositório remoto.
 
-git pull: Atualiza o repositório local com mudanças de um repositório remoto.
+* git pull: Atualiza o repositório local com mudanças de um repositório remoto.
 
 
 ## Link para a pasta desafio
