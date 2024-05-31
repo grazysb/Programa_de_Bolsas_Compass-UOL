@@ -10,6 +10,5 @@ Senti dificuldade para criar as relações entre tabelas através dos códigos, 
 
 
 ### Arquivos Gerados
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/1030066966d9599d468cceec4a61fe2563dbd014/Arquivos_sprint2)
-
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ae792cc4e47d007bb98cd8946486d22eda20b479/Arquivos_sprint2)
 
