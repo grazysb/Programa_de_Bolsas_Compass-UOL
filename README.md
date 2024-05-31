@@ -12,6 +12,6 @@ Estudo Sistemas de Informação no Intituto Federal da Bahia. Estou no primeiro 
 
 ## Sprints
 
-* Sprint 1: [Sprint_1](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/README_s1.md)
-* Sprint 2: [Sprint_2](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/75566533f7d07afe71d32297604093bf53a456c1/README_s2.md)
+* Sprint 1: [Sprint_1](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ea3f307867ca422e7e7bc50fa7aa933f3925da51/README_s1.md)
+* Sprint 2: [Sprint_2](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ea3f307867ca422e7e7bc50fa7aa933f3925da51/README_s2.md)
 * Sprint 3: [Sprint_3](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/2ef6579803e033354def9b2c86e89aac05bb1d62/README_s3.md)
