@@ -16,6 +16,7 @@ O conteúdo do Dockerfile especifica uma imagem base do Python, copia o script P
  * Gerar o hash da string usando o algoritmo SHA-1.
  * Imprimir o hash na tela utilizando o método hexdigest.
  * Retornar ao passo 1 até que o usuário decida sair.
+ 
  Em seguida, criei um arquivo Dockerfile que define a imagem Docker necessária para executar o script Python. O Dockerfile utiliza uma imagem base do Python, copia o script para o contêiner, define o diretório de trabalho e especifica o comando para executar o script Python.
  Para construir a imagem Docker a partir do Dockerfile, executei o comando docker build -t mascarar-dados . Este comando cria uma imagem chamada mascarar-dados. Para iniciar um contêiner a partir da imagem criada e permitir a entrada de dados, utilizei o comando docker run -it mascarar-dados
 
