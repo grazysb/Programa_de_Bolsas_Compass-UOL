@@ -30,3 +30,4 @@
 [desafio](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/954e5fb5fcfc893be0cb151d43cdde9beb24ea05/desafio_s4.md)
 
 #### Link certificado AWS
+[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/47e6199dce93ba857c775202903b04d9fd8effaa/Certificado%203%20AWS.pdf)
