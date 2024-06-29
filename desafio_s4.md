@@ -21,6 +21,12 @@ O conteúdo do Dockerfile especifica uma imagem base do Python, copia o script P
  Para construir a imagem Docker a partir do Dockerfile, executei o comando docker build -t mascarar-dados . Este comando cria uma imagem chamada mascarar-dados. Para iniciar um contêiner a partir da imagem criada e permitir a entrada de dados, utilizei o comando docker run -it mascarar-dados
 
 
-### Arquivos Gerados
+## Desafio Final
 [arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/0d3241cb1589e310c3df85e18a1237f1846961b0/Arquivos_sprint4)
+
+### Evidências
 [evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/49069f59be7555415e263f18720230739b9d236c/Arquivos_sprint4/Evid%C3%AAncias)
+
+#### Certificados
+- Certificado do curso AWS Partner: Accreditation
+[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/47e6199dce93ba857c775202903b04d9fd8effaa/Certificado%203%20AWS.pdf)
