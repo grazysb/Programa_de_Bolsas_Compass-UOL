@@ -1,12 +1,10 @@
 # Apresentação
 
-Me chamo Grazielly, moro em Vitória da Conquista na Bahia, e tenho 18 anos.      
-
-![foto](img/foto.jpeg)
+Olá, me chamo Grazielly, tenho 18 anos, nasci em Irecê na Bahia, e hoje moro em Vitória da Conquista. No meu tempo livre, gosto muito de ler e acompanhar esportes. Além disso, tenho um grande interesse por matemática e gosto de estudar sobre.
 
 ## Formação
 
-Estudo Sistemas de Informação no Intituto Federal da Bahia. Estou no primeiro semestre, e por enquanto não tenho outras experiências profissionais. 
+Estou no 1° semestre de Sistemas de Informação no IFBA de Vitória da Conquista. Anteriormente, fiz o Ensino Médio integrado com o curso técnico em Informática, também no IFBA, porém estudei mais a parte de hardware e manutenção de computadores. O Programa de Bolsas da Compass está sendo a minha primeira experiência profissional.
 
 ![logo_IFBA](https://doity.com.br/media/doity/eventos/evento-59098-logo_organizador.png)
 
