@@ -12,7 +12,10 @@ Senti dificuldade para criar as relações entre tabelas através dos códigos, 
 ### Desafio Final
 [arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ae792cc4e47d007bb98cd8946486d22eda20b479/Arquivos_sprint2)
 
-## Exercício SQL
+#### Evidências
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Arquivos_sprint2/Evid%C3%AAncias)
+
+#### Exercício SQL
 1. [Resposta Atv. 3.1](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ae792cc4e47d007bb98cd8946486d22eda20b479/Atividade_sprint2/Atv.%203.1%20Sprint%202%20-%20Se%C3%A7%C3%A3o%206.csv)
 2. [Resposta Atv. 3.2](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ae792cc4e47d007bb98cd8946486d22eda20b479/Atividade_sprint2/Atv.%203.2%20Sprint%202%20-%20Se%C3%A7%C3%A3o%206.csv)
 
