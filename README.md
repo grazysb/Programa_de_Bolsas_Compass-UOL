@@ -53,6 +53,6 @@ Estou no 1° semestre de Sistemas de Informação no IFBA de Vitória da Conquis
 ## Sprints
 
 * Sprint 1: [Sprint_1](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/cc05b71065170ba8356054439cadd22e4b23a518/desafio_s1.md)
-* Sprint 2: [Sprint_2](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/259e19b03ef9ebc2a5fbf200b13fe43b814341a3/README_s2.md)
-* Sprint 3: [Sprint_3](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/2ef6579803e033354def9b2c86e89aac05bb1d62/README_s3.md)
-* Sprint 4: [Sprint_4](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/586c26658cf5830b74aa196524027ca83446cf68/README_s4.md)
+* Sprint 2: [Sprint_2](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/182feb09c65e397b3f61c7926c9ca9080ae91b02/desafio_s2.md)
+* Sprint 3: [Sprint_3](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/19bdfa3dd3c02e463c3a8a5d53547b34d4c2f6f3/desafio_s3.md)
+* Sprint 4: [Sprint_4](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/182feb09c65e397b3f61c7926c9ca9080ae91b02/desafio_s4.md)
