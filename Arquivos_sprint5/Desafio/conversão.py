@@ -16,5 +16,5 @@ def convert_to_utf8(input_file_path, output_file_path, original_encoding):
 # Exemplo de uso
 input_file_path = 'C:\\Users\\grazy\\Desktop\\desafios5\\tempo-medio-de-importacao-por-regiao-fiscal-consolidado-ATT.csv'
 output_file_path = 'C:\\Users\\grazy\\Desktop\\desafios5\\tempo-medio-de-importacao-por-regiao-fiscal-consolidado-ATT-utf8.csv'
-original_encoding = 'ISO-8859-1'  # Substitua pela codificação original do seu arquivo, se diferente
+original_encoding = 'ISO-8859-1'  
 convert_to_utf8(input_file_path, output_file_path, original_encoding)
