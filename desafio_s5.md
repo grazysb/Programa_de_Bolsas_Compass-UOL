@@ -9,7 +9,7 @@ Primeiro, garanti que a tabela de dados estivesse no formato CSV correto, e depo
 Escrevi três consultas SQL diferentes. A primeira consulta seleciona todas as linhas onde TMBDI é maior que 50 e ANO DESEMB é maior que 2015, limitando os resultados a 5 linhas. A segunda consulta calcula a soma e a média de TMBDI, convertendo os valores para float. A terceira consulta utiliza várias funções: uma condicional para categorizar TMBDI em 'ALTO' ou 'BAIXO', uma substring para extrair o ano de ANO DESEMB, uma função para calcular o comprimento da string RF DESPACHO e uma conversão de TMBDI para float.
 
 ## Desafio Final
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/a04f9795126586aab3f7450ec2e8c5fefc1cce59/Arquivos_sprint5)
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/24c08a68cc130bd504c3e4fe78fe3b60e2c08616/Arquivos_sprint5)
 
 ### Evidências
 [evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/9cf3fd94e088e83707ec6e3a1d71af3244672e0e/Arquivos_sprint5/Evid%C3%AAncias)
