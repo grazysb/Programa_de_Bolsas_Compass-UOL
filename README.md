@@ -53,8 +53,6 @@ Estou no 1° semestre de Sistemas de Informação no IFBA de Vitória da Conquis
 O serverless analytics permite que você execute análises de dados sem a necessidade de gerenciar servidores. Os serviços são totalmente gerenciados pela AWS, escalando automaticamente conforme necessário.
 
 ## Amazon Athena
-
-#### Descrição
 Um serviço de consulta interativa que facilita a análise de dados diretamente no Amazon S3 usando SQL padrão.
 #### Características
 * Serverless: Não requer infraestrutura gerenciada.
@@ -62,8 +60,6 @@ Um serviço de consulta interativa que facilita a análise de dados diretamente 
 * Fácil de usar: Suporte para SQL padrão.
 
 ## AWS Glue
-
-#### Descrição
 Um serviço de ETL (Extract, Transform, Load) totalmente gerenciado.
 #### Características
 * Catálogo de Dados: Criação automática de catálogos de dados.
@@ -71,7 +67,6 @@ Um serviço de ETL (Extract, Transform, Load) totalmente gerenciado.
 * Integração com outros serviços AWS: Como Amazon S3, Amazon RDS, e Amazon Redshift.
 
 ## Amazon Redshift
-#### Descrição
 Um serviço de data warehousing rápido e totalmente gerenciado.
 #### Características
 * Alta performance: Suporte para consultas analíticas complexas.
@@ -79,7 +74,6 @@ Um serviço de data warehousing rápido e totalmente gerenciado.
 * Integração: Compatível com SQL e integração com outros serviços AWS.
 
 ## Amazon QuickSight
-#### Descrição
 Um serviço de business intelligence (BI) que permite criar visualizações interativas e dashboards.
 #### Características
 * Fácil de usar: Interface intuitiva e criação rápida de visualizações.
@@ -87,7 +81,6 @@ Um serviço de business intelligence (BI) que permite criar visualizações inte
 * Auto-análise: Insights automáticos baseados em ML.
 
 ## Amazon EMR
-#### Descrição
 Um serviço gerenciado de Hadoop que permite processar grandes volumes de dados usando frameworks como Apache Spark, HBase, Presto, e Flink.
 #### Características
 * Flexibilidade: Suporte para múltiplos frameworks de big data.

@@ -33,16 +33,54 @@ A "raw zone" é uma área do bucket S3 onde os dados são armazenados em seu for
 ![conteúdo do bucket](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/20bc68fa8a1228b0c537286e46c0ab57501a45f4/Arquivos_sprint6/evidencia2_s6.png)
 
 
-
-
 ## Explicação da análise do desafio final
 
 ## Arquivos Desafio
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/24c08a68cc130bd504c3e4fe78fe3b60e2c08616/Arquivos_sprint5)
+[arquivos]()
 
 ### Evidências
-[evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/9cf3fd94e088e83707ec6e3a1d71af3244672e0e/Arquivos_sprint5/Evid%C3%AAncias)
+[evidências]()
+
+### Exercícios
+- Lab AWS S3
+
+- Lab AWS Athena
+
+- Lab AWS Lambda
 
 #### Certificados
-- Certificado do curso AWS Certified Cloud Practitioner
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/0adca54ecffea514504c42ca1be2e57d92759589/Certificado%20s5%20-%20AWS.pdf)
+- Certificado do curso Fundamentals of Analytics on AWS – Part 1
+
+[certificado]()
+
+Certificado do curso Fundamentals of Analytics on AWS – Part 2
+
+[certificado]()
+
+Certificado do curso Serverless Analytics
+
+[certificado]()
+
+Certificado do curso Introduction to Amazon Athena
+
+[certificado]()
+
+Certificado do curso AWS Glue Getting Started
+
+[certificado]()
+
+Certificado do curso Amazon EMR Getting Started
+
+[certificado]()
+
+Certificado do curso Getting Started with Amazon Redshift
+
+[certificado]()
+
+Certificado do curso Best Practices for Data Warehousing with Amazon Redshift
+
+[certificado]()
+
+Certificado do curso Amazon QuickSight - Getting Started
+
+[certificado]()
