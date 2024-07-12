@@ -27,8 +27,8 @@ A "raw zone" é uma área do bucket S3 onde os dados são armazenados em seu for
 * Por fim, executei os comandos de Docker build e Docker run.
 
 ### Evidências de execução
+![execução do container](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/da641ad033a818838eb102478fc734297de68cca/Arquivos_sprint6/evidencia_s6.png)
 
-![execução do container](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/20bc68fa8a1228b0c537286e46c0ab57501a45f4/Arquivos_sprint6/evidencia2_s6.png)
 
 ![conteúdo do bucket](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/20bc68fa8a1228b0c537286e46c0ab57501a45f4/Arquivos_sprint6/evidencia2_s6.png)
 
