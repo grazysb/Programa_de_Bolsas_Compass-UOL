@@ -1,21 +1,48 @@
-Desafio e Motivação da Análise
-Introdução
-O objetivo desta análise é explorar e responder a algumas perguntas específicas sobre filmes do gênero ação e aventura. 
+# Descrição da tarefa
+Realizar uma Ingestão Batch dos arquivos CSV em Bucket Amazon S3 RAW Zone.
 
-As perguntas que guiarão nossa análise são as seguintes:
+## Passos Executados
+* Primeiro, adicionei os arquivos CSV (movies.csv e series.csv) no mesmo diretório onde o código Python e o Dockerfile estão localizados, para que o Docker consiga acessar esses arquivos durante a execução. 
 
-Quais são os Top 5 filmes mais longos de ação e aventura lançados a partir do ano 2000?
+* Em seguida, desenvolvi o código python para realizar a ingestão:
 
-Motivo: Filmes de longa duração muitas vezes indicam produções complexas e de grande investimento. Analisar os filmes mais longos pode nos dar insights sobre como o tempo de tela é utilizado para desenvolver tramas mais detalhadas e imersivas, especialmente em um gênero que depende muito de cenas de ação intensas e narrativas envolventes.
-Quais são os filmes de ação e aventura com as piores avaliações?
+1. Configurei as credenciais de acesso.
+2. Implementei funções para verificar se o bucket existe e criá-lo caso não exista.
+3. Desenvolvi a função upload_to_s3 para enviar os arquivos para o S3.
+4. Inicializei o cliente boto3 com as credenciais configuradas.
+5. Verifiquei se o bucket já existe e criei-o se necessário.
+6. Especifiquei os caminhos dos arquivos CSV locais.
+7. Percorri cada arquivo e o carreguei para o S3 seguindo a estrutura especificada.
 
-Motivo: Identificar filmes com avaliações baixas ajuda a entender o que pode não ter funcionado em termos de narrativa, direção, atuação, ou outros aspectos técnicos e criativos. Isso também pode ajudar a aprender com os erros e evitar falhas similares em futuras produções.
-Qual década tem os filmes de ação e aventura com a média de avaliação mais baixa?
+##### Estrutura "Raw Zone"
+A "raw zone" é uma área do bucket S3 onde os dados são armazenados em seu formato bruto, sem qualquer tipo de transformação ou processamento.
 
-Motivo: Analisar a qualidade média dos filmes por década pode revelar mudanças e tendências na produção cinematográfica ao longo do tempo. Pode indicar períodos em que o gênero pode ter enfrentado dificuldades ou transformações significativas que impactaram negativamente a recepção crítica.
-Metodologia
-Para responder a essas perguntas, utilizaremos um conjunto de dados abrangente de filmes, que inclui informações sobre duração, ano de lançamento, gênero e avaliações. Através de técnicas de análise de dados, como filtragem, ordenação e cálculo de médias, seremos capazes de extrair respostas precisas e relevantes para cada uma das perguntas propostas.
+* Depois, criei um Dockerfile para executar o script em python.
+1. Utilizar uma imagem base do Python 3.8.
+2. Definir o diretório de trabalho no contêiner.
+3. Copiar os arquivos do diretório local para o diretório de trabalho no contêiner.
+4. Instalar as dependências necessárias (boto3).
+5. Definir o comando para executar o script Python.
 
-Conclusão
-Esta análise não apenas busca responder perguntas específicas, mas também fornecer um panorama sobre a evolução e os desafios enfrentados pelos filmes de ação e aventura. Ao entender melhor esses aspectos, podemos obter insights valiosos sobre a produção e a recepção desse gênero tão popular.
+* Por fim, executei os comandos de Docker build e Docker run.
 
+### Evidências de execução
+
+![execução do container](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/20bc68fa8a1228b0c537286e46c0ab57501a45f4/Arquivos_sprint6/evidencia2_s6.png)
+
+![conteúdo do bucket](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/20bc68fa8a1228b0c537286e46c0ab57501a45f4/Arquivos_sprint6/evidencia2_s6.png)
+
+
+
+
+## Explicação da análise do desafio final
+
+## Arquivos Desafio
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/24c08a68cc130bd504c3e4fe78fe3b60e2c08616/Arquivos_sprint5)
+
+### Evidências
+[evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/9cf3fd94e088e83707ec6e3a1d71af3244672e0e/Arquivos_sprint5/Evid%C3%AAncias)
+
+#### Certificados
+- Certificado do curso AWS Certified Cloud Practitioner
+[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/0adca54ecffea514504c42ca1be2e57d92759589/Certificado%20s5%20-%20AWS.pdf)
