@@ -35,24 +35,38 @@ A "raw zone" é uma área do bucket S3 onde os dados são armazenados em seu for
 
 ## Explicação da análise do desafio final
 
+O objetivo desta análise é explorar filmes do gênero ação e aventura para responder às seguintes perguntas:
+
+1. **Quais são os Top 5 filmes mais longos de ação e aventura lançados a partir do ano 2000?**
+   - **Motivação:** Filmes longos geralmente indicam produções complexas e de grande investimento. Analisar esses filmes pode revelar como o tempo de tela é usado para desenvolver tramas detalhadas e envolventes, cruciais para o gênero.
+
+2. **Quais são os filmes de ação e aventura com as piores avaliações?**
+   - **Motivação:** Identificar filmes com avaliações baixas ajuda a entender falhas em narrativa, direção, atuação ou outros aspectos técnicos e criativos.
+
+3. **Qual década tem os filmes de ação e aventura com a média de avaliação mais baixa?**
+   - **Motivação:** Analisar a qualidade média dos filmes por década pode revelar tendências e mudanças na produção cinematográfica ao longo do tempo, indicando períodos de dificuldades ou transformações no gênero.
+
+Esta análise visa não apenas responder perguntas específicas, mas também oferecer insights sobre a evolução e os desafios dos filmes de ação e aventura. Entender esses aspectos pode fornecer informações valiosas sobre a produção e recepção desse gênero popular.
+
+
 ## Arquivos Desafio
-[arquivos]()
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/c%C3%B3digos)
 
 ### Evidências
-[evidências]()
+[evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/evid%C3%AAncias)
 
 ### Exercícios
 - Lab AWS S3
-[acessar vídeo]()
-![imagem]()
+[acessar vídeo](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ex_s3.mp4)
+![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ev_ex1.png)
 
 - Lab AWS Athena
-[acessar vídeo]()
-![imagem]()
+[acessar vídeo](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ex_athena%20%E2%80%90%20Feito%20com%20o%20Clipchamp.mp4)
+![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ev_ex2.png)
 
 - Lab AWS Lambda
-[acessar vídeo]()
-![imagem]()
+[acessar vídeo](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ex_lambda.mp4)
+![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ev_ex3.png)
 
 #### Certificados
 - Certificado do curso Fundamentals of Analytics on AWS – Part 1
