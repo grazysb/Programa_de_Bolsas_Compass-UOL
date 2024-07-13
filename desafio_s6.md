@@ -71,36 +71,36 @@ Esta análise visa não apenas responder perguntas específicas, mas também ofe
 #### Certificados
 - Certificado do curso Fundamentals of Analytics on AWS – Part 1
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/No%C3%A7%C3%B5es%20b%C3%A1sicas%20de%20Analytics%20na%20AWS.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/No%C3%A7%C3%B5es%20b%C3%A1sicas%20de%20Analytics%20na%20AWS.pdf)
 
-Certificado do curso Fundamentals of Analytics on AWS – Part 2
+- Certificado do curso Fundamentals of Analytics on AWS – Part 2
 
 [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/No%C3%A7%C3%B5es%20b%C3%A1sicas%20de%20Analytics%20na%20AWS-pt2.pdf)
 
-Certificado do curso Serverless Analytics
+- Certificado do curso Serverless Analytics
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Serverless%20Analytics%20-%20AWS%20Course%20Completion%20Certificate.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Serverless%20Analytics%20-%20AWS%20Course%20Completion%20Certificate.pdf)
 
-Certificado do curso Introduction to Amazon Athena
+- Certificado do curso Introduction to Amazon Athena
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Introdu%C3%A7%C3%A3o%20ao%20Amazon%20Athena%20-AWS%20Course%20Completion%20Certificate.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Introdu%C3%A7%C3%A3o%20ao%20Amazon%20Athena%20-AWS%20Course%20Completion%20Certificate.pdf)
 
-Certificado do curso AWS Glue Getting Started
+- Certificado do curso AWS Glue Getting Started
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/AWS%20Glue%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/AWS%20Glue%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
 
-Certificado do curso Amazon EMR Getting Started
+- Certificado do curso Amazon EMR Getting Started
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20EMR%20Getting%20Started_AWS%20Skill%20Builder%20Course%20Completion%20Certificate.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20EMR%20Getting%20Started_AWS%20Skill%20Builder%20Course%20Completion%20Certificate.pdf)
 
-Certificado do curso Getting Started with Amazon Redshift
+- Certificado do curso Getting Started with Amazon Redshift
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20Redshift%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20Redshift%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
 
-Certificado do curso Best Practices for Data Warehousing with Amazon Redshift
+- Certificado do curso Best Practices for Data Warehousing with Amazon Redshift
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Best%20Practices%20for%20Data%20Warehousing%20with%20Amazon%20Redshift_AWS%20Course%20Completion%20Certificate.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Best%20Practices%20for%20Data%20Warehousing%20with%20Amazon%20Redshift_AWS%20Course%20Completion%20Certificate.pdf)
 
-Certificado do curso Amazon QuickSight - Getting Started
+- Certificado do curso Amazon QuickSight - Getting Started
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20QuickSight%20-%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20QuickSight%20-%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
