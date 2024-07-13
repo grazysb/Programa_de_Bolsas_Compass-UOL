@@ -75,7 +75,7 @@ Esta análise visa não apenas responder perguntas específicas, mas também ofe
 
 - Certificado do curso Fundamentals of Analytics on AWS – Part 2
 
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/No%C3%A7%C3%B5es%20b%C3%A1sicas%20de%20Analytics%20na%20AWS-pt2.pdf)
+-- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/No%C3%A7%C3%B5es%20b%C3%A1sicas%20de%20Analytics%20na%20AWS-pt2.pdf)
 
 - Certificado do curso Serverless Analytics
 
