@@ -4,7 +4,7 @@
 [acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%206/Desafio)
 
 ### Evidências
-[evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%206/Evid%C3%AAncias)
+[acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%206/Evid%C3%AAncias)
 
 ### Exercícios
 - Lab AWS S3

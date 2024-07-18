@@ -25,7 +25,7 @@ O conteúdo do Dockerfile especifica uma imagem base do Python, copia o script P
 [acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%204/Desafio/Entreg%C3%A1veis)
 
 ### Evidências
-[evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%204/Evid%C3%AAncias)
+[acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%204/Evid%C3%AAncias)
 
 ![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%204/Evid%C3%AAncias/ev2.png)
 

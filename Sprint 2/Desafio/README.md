@@ -10,7 +10,7 @@ Senti dificuldade para criar as relações entre tabelas através dos códigos, 
 
 
 ### Arquivos gerados
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%202/Desafio/Entreg%C3%A1veis)
+[acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%202/Desafio/Entreg%C3%A1veis)
 
 #### Evidências
 ![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%202/Desafio/Entreg%C3%A1veis/Evid%C3%AAncias/modelo_dim.png)

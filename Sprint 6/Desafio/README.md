@@ -27,10 +27,10 @@ A "raw zone" é uma área do bucket S3 onde os dados são armazenados em seu for
 * Por fim, executei os comandos de Docker build e Docker run.
 
 ### Evidências de execução
-![execução do container](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/da641ad033a818838eb102478fc734297de68cca/Arquivos_sprint6/evidencia_s6.png)
+![execução do container](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%206/Desafio/Entreg%C3%A1veis/evid%C3%AAncias/evidencia_s6.png)
 
 
-![conteúdo do bucket](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/20bc68fa8a1228b0c537286e46c0ab57501a45f4/Arquivos_sprint6/evidencia2_s6.png)
+![conteúdo do bucket](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%206/Desafio/Entreg%C3%A1veis/evid%C3%AAncias/evidencia2_s6.png)
 
 
 ## Explicação da análise do desafio final
@@ -50,57 +50,8 @@ Esta análise visa não apenas responder perguntas específicas, mas também ofe
 
 
 ## Arquivos Desafio
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/c%C3%B3digos)
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%206/Desafio/Entreg%C3%A1veis)
 
 ### Evidências
-[evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/tree/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/evid%C3%AAncias)
+[evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%206/Desafio/Entreg%C3%A1veis/evid%C3%AAncias)
 
-### Exercícios
-- Lab AWS S3
-[acessar vídeo](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ex_s3.mp4)
-![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ev_ex1.png)
-
-- Lab AWS Athena
-[acessar vídeo](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ex_athena%20%E2%80%90%20Feito%20com%20o%20Clipchamp.mp4)
-![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ev_ex2.png)
-
-- Lab AWS Lambda
-[acessar vídeo](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ex_lambda.mp4)
-![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/1d989a93b7041c9f562541a69ff1e37ce24f8d4a/Arquivos_sprint6/exerc%C3%ADcios/ev_ex3.png)
-
-#### Certificados
-- Certificado do curso Fundamentals of Analytics on AWS – Part 1
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/No%C3%A7%C3%B5es%20b%C3%A1sicas%20de%20Analytics%20na%20AWS.pdf)
-
-- Certificado do curso Fundamentals of Analytics on AWS – Part 2
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/No%C3%A7%C3%B5es%20b%C3%A1sicas%20de%20Analytics%20na%20AWS-pt2.pdf)
-
-- Certificado do curso Serverless Analytics
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Serverless%20Analytics%20-%20AWS%20Course%20Completion%20Certificate.pdf)
-
-- Certificado do curso Introduction to Amazon Athena
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Introdu%C3%A7%C3%A3o%20ao%20Amazon%20Athena%20-AWS%20Course%20Completion%20Certificate.pdf)
-
-- Certificado do curso AWS Glue Getting Started
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/AWS%20Glue%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
-
-- Certificado do curso Amazon EMR Getting Started
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20EMR%20Getting%20Started_AWS%20Skill%20Builder%20Course%20Completion%20Certificate.pdf)
-
-- Certificado do curso Getting Started with Amazon Redshift
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20Redshift%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
-
-- Certificado do curso Best Practices for Data Warehousing with Amazon Redshift
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Best%20Practices%20for%20Data%20Warehousing%20with%20Amazon%20Redshift_AWS%20Course%20Completion%20Certificate.pdf)
-
-- Certificado do curso Amazon QuickSight - Getting Started
-
--- [certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/22873055a2c5cea545f604f7bcb6648b8f895acd/Arquivos_sprint6/certificados/Amazon%20QuickSight%20-%20Getting%20Started_AWS%20Course%20Completion%20Certificate.pdf)
