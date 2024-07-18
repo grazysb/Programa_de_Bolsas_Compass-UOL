@@ -91,12 +91,12 @@ Um serviço gerenciado de Hadoop que permite processar grandes volumes de dados 
 
 ## Sprints
 
-* Sprint 1: [Sprint_1](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%201)
-* Sprint 2: [Sprint_2](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%202)
-* Sprint 3: [Sprint_3](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/0a5d4abb8199117b9e3eee1b9d503a8316c127d2/Sprint%203)
-* Sprint 4: [Sprint_4](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%204)
-* Sprint 5: [Sprint_5](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/fe8b7a87bdd00b7550792491396ea337f4ef39d5/Sprint%205)
-* Sprint 6: [Sprint_6](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%206)
+* Sprint 1: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%201)
+* Sprint 2: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%202)
+* Sprint 3: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/0a5d4abb8199117b9e3eee1b9d503a8316c127d2/Sprint%203)
+* Sprint 4: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%204)
+* Sprint 5: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/fe8b7a87bdd00b7550792491396ea337f4ef39d5/Sprint%205)
+* Sprint 6: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%206)
 
 
 ## Explicação da análise do desafio final
