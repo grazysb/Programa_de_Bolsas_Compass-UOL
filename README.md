@@ -8,6 +8,7 @@ Estou no 1° semestre de Sistemas de Informação no IFBA de Vitória da Conquis
 
 ![logo_IFBA](https://lh6.googleusercontent.com/proxy/JoHYr7N1V2xxeTS2j0wQnRsolCnrti03jwelgCS-TAt2g8-aBK3JdxOTbQGEWWC6I11ZRiluWFTatAERpLRvVLiCBZ8sQBA)
 
+
 # Resumos
 ## Linux
 ### Resumo
@@ -102,3 +103,19 @@ Um serviço gerenciado de Hadoop que permite processar grandes volumes de dados 
 * Sprint 4: [Sprint_4](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/182feb09c65e397b3f61c7926c9ca9080ae91b02/desafio_s4.md)
 * Sprint 5: [Sprint_5](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/c9a32fde8c11d26365e8d3b9d99d136fbb2693e5/desafio_s5.md)
 * Sprint 6: [Sprint_6](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ff01e5e90552f16a090d81bbe8056e4c344a3044/desafio_s6.md)
+
+
+## Explicação da análise do desafio final
+
+O objetivo desta análise é explorar filmes do gênero ação e aventura para responder às seguintes perguntas:
+
+1. **Quais são os Top 5 filmes mais longos de ação e aventura lançados a partir do ano 2000?**
+   - **Motivação:** Filmes longos geralmente indicam produções complexas e de grande investimento. Analisar esses filmes pode revelar como o tempo de tela é usado para desenvolver tramas detalhadas e envolventes, cruciais para o gênero.
+
+2. **Quais são os filmes de ação e aventura com as piores avaliações?**
+   - **Motivação:** Identificar filmes com avaliações baixas ajuda a entender falhas em narrativa, direção, atuação ou outros aspectos técnicos e criativos.
+
+3. **Qual década tem os filmes de ação e aventura com a média de avaliação mais baixa?**
+   - **Motivação:** Analisar a qualidade média dos filmes por década pode revelar tendências e mudanças na produção cinematográfica ao longo do tempo, indicando períodos de dificuldades ou transformações no gênero.
+
+Esta análise visa não apenas responder perguntas específicas, mas também oferecer insights sobre a evolução e os desafios dos filmes de ação e aventura. Entender esses aspectos pode fornecer informações valiosas sobre a produção e recepção desse gênero popular.
