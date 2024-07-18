@@ -9,16 +9,10 @@ Senti dificuldade para criar as relações entre tabelas através dos códigos, 
 
 
 
-### Desafio Final
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ae792cc4e47d007bb98cd8946486d22eda20b479/Arquivos_sprint2)
+### Arquivos gerados
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%202/Desafio/Entreg%C3%A1veis)
 
 #### Evidências
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Arquivos_sprint2/Evid%C3%AAncias)
+![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%202/Desafio/Entreg%C3%A1veis/Evid%C3%AAncias/modelo_dim.png)
 
-#### Exercício SQL
-1. [Resposta Atv. 3.1](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ae792cc4e47d007bb98cd8946486d22eda20b479/Atividade_sprint2/Atv.%203.1%20Sprint%202%20-%20Se%C3%A7%C3%A3o%206.csv)
-2. [Resposta Atv. 3.2](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/ae792cc4e47d007bb98cd8946486d22eda20b479/Atividade_sprint2/Atv.%203.2%20Sprint%202%20-%20Se%C3%A7%C3%A3o%206.csv)
-
-#### Certificados
-- Certificado do curso AWS Partner: Sales Accreditation
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/bbac0f447c0a5117c5e57e7ad1e6449f4e37d8fa/Arquivos_sprint2/13660_3_5472010_1715994968_AWS%20Course%20Completion%20Certificate.pdf)
+![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%202/Desafio/Entreg%C3%A1veis/Evid%C3%AAncias/modelo_rel.png)
