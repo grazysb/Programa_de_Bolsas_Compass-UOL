@@ -20,7 +20,7 @@ Esse novo script combinaria os três arquivos em um único chamado vendas combin
 
 
 ### Arquivos gerados
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Arquivos_sprint1)
+[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7d16141b3599397aacf0b9c0d4a7d5826f268d97/Sprint%201/Evid%C3%AAncias)
 
 ### Evidências
 ![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%201/Evid%C3%AAncias/Captura%20de%20tela%20de%202024-05-03%2012-26-58.png)
