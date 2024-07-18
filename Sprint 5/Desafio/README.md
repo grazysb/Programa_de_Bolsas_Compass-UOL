@@ -8,12 +8,14 @@ Primeiro, garanti que a tabela de dados estivesse no formato CSV correto, e depo
 
 Escrevi três consultas SQL diferentes. A primeira consulta seleciona todas as linhas onde TMBDI é maior que 50 e ANO DESEMB é maior que 2015, limitando os resultados a 5 linhas. A segunda consulta calcula a soma e a média de TMBDI, convertendo os valores para float. A terceira consulta utiliza várias funções: uma condicional para categorizar TMBDI em 'ALTO' ou 'BAIXO', uma substring para extrair o ano de ANO DESEMB, uma função para calcular o comprimento da string RF DESPACHO e uma conversão de TMBDI para float.
 
-## Desafio Final
-[arquivos](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/24c08a68cc130bd504c3e4fe78fe3b60e2c08616/Arquivos_sprint5)
+## Arquivos gerados
+[acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%205/Desafio/Entreg%C3%A1veis)
 
 ### Evidências
-[evidências](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/9cf3fd94e088e83707ec6e3a1d71af3244672e0e/Arquivos_sprint5/Evid%C3%AAncias)
+[acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%205/Desafio/Entreg%C3%A1veis/Desafio/Evid%C3%AAncias%20Desafio)
 
-#### Certificados
-- Certificado do curso AWS Certified Cloud Practitioner
-[certificado](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/0adca54ecffea514504c42ca1be2e57d92759589/Certificado%20s5%20-%20AWS.pdf)
+![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%205/Desafio/Entreg%C3%A1veis/Desafio/Evid%C3%AAncias%20Desafio/Captura%20de%20tela%202024-06-30%20132650.png)
+
+![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%205/Desafio/Entreg%C3%A1veis/Desafio/Evid%C3%AAncias%20Desafio/Captura%20de%20tela%202024-06-30%20145116.png)
+
+![imagem](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%205/Desafio/Entreg%C3%A1veis/Desafio/Evid%C3%AAncias%20Desafio/Captura%20de%20tela%202024-06-30%20145231.png)
