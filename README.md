@@ -97,7 +97,7 @@ Um serviço gerenciado de Hadoop que permite processar grandes volumes de dados 
 * Sprint 4: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%204)
 * Sprint 5: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/fe8b7a87bdd00b7550792491396ea337f4ef39d5/Sprint%205)
 * Sprint 6: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%206)
-* Sprint 7: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%207)
+* Sprint 7: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/fffa50beb7e5c154da6c18f6331d2f7807157ce2/README.md)
 
 
 ## Explicação da análise do desafio final

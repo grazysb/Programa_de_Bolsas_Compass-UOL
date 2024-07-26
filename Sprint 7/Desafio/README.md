@@ -19,7 +19,10 @@ Após confirmar que o código estava funcionando corretamente, compactei o códi
 O arquivo ZIP foi enviado para a função Lambda no console AWS, e a configuração da função foi ajustada para usar a layer criada anteriormente.
 
 6. Execução e Armazenamento dos Dados
-A função Lambda foi executada, gerando cerca de 30 arquivos JSON. Essa quantidade de arquivos foi resultado da condição de limitar a 100 registros por arquivo, garantindo que cada arquivo JSON não excedesse o tamanho especificado. Os arquivos JSON foram armazenados no bucket S3 na estrutura de diretórios definida, organizados por data e conforme a filtragem dos dados.
+A função Lambda foi executada, gerando cerca de 30 arquivos JSON. Essa quantidade de arquivos foi resultado da condição de limitar a 100 registros por arquivo, garantindo que cada arquivo JSON não excedesse o tamanho especificado. Os arquivos JSON foram armazenados no bucket S3 na estrutura de diretórios definida, organizados por data e conforme a filtragem dos dados. 
+
+### Observação
+Fiz a ingestão apenas dos dados de filmes porque a minha análise será voltada apenas para eles, e por isso não vi necessidade de realizar uma ingestão de dados novos sobre series. 
 
 ### Evidências de execução
 ![execução](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%207/Evid%C3%AAncias/Captura%20de%20tela%202024-07-26%20123202.png)
