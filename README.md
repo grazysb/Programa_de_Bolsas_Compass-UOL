@@ -88,6 +88,15 @@ Um serviço gerenciado de Hadoop que permite processar grandes volumes de dados 
 * AWS Glue: Para ETL e integração de dados.
 * Amazon S3: Armazenamento de dados de baixo custo e alta durabilidade.
 
+## Spark
+O Apache Spark é uma plataforma de processamento de dados em grande escala que permite realizar análises rápidas e eficientes em grandes volumes de dados. Desenvolvido originalmente pela AMPLab da Universidade da Califórnia, Berkeley, o Spark oferece uma estrutura unificada para o processamento de dados em lote e em tempo real.
+#### Características
+* Processamento em Memória: Spark realiza o processamento em memória (in-memory), o que o torna significativamente mais rápido que sistemas tradicionais como o Hadoop MapReduce.
+* API Unificada: Oferece APIs em várias linguagens, incluindo Python, Java, Scala e R, permitindo flexibilidade para desenvolvedores.
+* Liderança em Velocidade: Capaz de ser até 100 vezes mais rápido que o Hadoop em certas tarefas de processamento.
+* Suporte a Diversos Workloads: Pode lidar com processamento em lote, streaming, SQL, machine learning e análise de gráficos, tudo dentro da mesma plataforma.
+* Escalabilidade: Spark pode ser escalado em clusters de milhares de nós, permitindo o processamento de petabytes de dados.
+* Suporte a Distribuição e Tolerância a Falhas: Gerencia o processamento distribuído e oferece tolerância a falhas, garantindo a execução de tarefas mesmo em casos de falhas de nó.
 
 ## Sprints
 
@@ -98,6 +107,7 @@ Um serviço gerenciado de Hadoop que permite processar grandes volumes de dados 
 * Sprint 5: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/fe8b7a87bdd00b7550792491396ea337f4ef39d5/Sprint%205)
 * Sprint 6: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%206)
 * Sprint 7: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/fffa50beb7e5c154da6c18f6331d2f7807157ce2/README.md)
+* Sprint 8: [Acessar]()
 
 
 ## Explicação da análise do desafio final
