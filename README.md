@@ -107,15 +107,16 @@ O Apache Spark é uma plataforma de processamento de dados em grande escala que 
 * Sprint 5: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/fe8b7a87bdd00b7550792491396ea337f4ef39d5/Sprint%205)
 * Sprint 6: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/7bf3094b727b5e95491a731b14ded205b1eba58a/Sprint%206)
 * Sprint 7: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/fffa50beb7e5c154da6c18f6331d2f7807157ce2/README.md)
-* Sprint 8: [Acessar]()
+* Sprint 8: [Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/48352beb1195d1f697d8a368afe2ee0be5d9109a/Sprint%208)
+* Sprint 9:[Acessar](https://github.com/grazysb/Programa_de_Bolsas_Compass-UOL/blob/main/Sprint%209)
 
 
 ## Explicação da análise do desafio final
 
 O objetivo desta análise é explorar filmes do gênero ação e aventura para responder às seguintes perguntas:
 
-1. **Quais são os Top 5 filmes mais longos de ação e aventura lançados a partir do ano 2000?**
-   - **Motivação:** Filmes longos geralmente indicam produções complexas e de grande investimento. Analisar esses filmes pode revelar como o tempo de tela é usado para desenvolver tramas detalhadas e envolventes, cruciais para o gênero.
+1. **Qual é a média de avaliação dos filmes de ação e aventura por idioma?**
+   - **Motivação:** Analisar a média de avaliação por idioma permite entender como filmes em diferentes idiomas são recebidos pela crítica e pelo público. Isso pode revelar tendências de qualidade associadas a produções de certos países ou culturas e oferecer insights sobre a diversidade e a recepção global dos filmes de ação e aventura.
 
 2. **Quais são os filmes de ação e aventura com as piores avaliações?**
    - **Motivação:** Identificar filmes com avaliações baixas ajuda a entender falhas em narrativa, direção, atuação ou outros aspectos técnicos e criativos.
